@@ -149,7 +149,6 @@
 .Notion_P .page-body table,
 .Notion_P .page-body th,
 .Notion_P .page-body td {
-    border: 1px solid rgba(55, 53, 47, 0.09);
     border-collapse: collapse;
 }
 
